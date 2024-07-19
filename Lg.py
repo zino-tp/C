@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 import requests
 
 # Ersetze dies durch deinen Discord-WebHook-URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1260028879729332275/bhliony5asku0znPNm424ciasbyH9-qoj926nz3Z8yeHy7TPM5GvhNHGajpBW-HRnovA'
 
 # Pfad zum WebDriver
 driver_path = '/path/to/chromedriver'  # Ersetze dies durch den tatsächlichen Pfad
